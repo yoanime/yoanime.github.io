@@ -1,1 +1,3 @@
-# yoanime.github.io
+# 
+Yoanime! website.
+http://yoanime.github.io
